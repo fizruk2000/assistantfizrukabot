@@ -34,7 +34,18 @@ data() {
           { result: 14.0, points: 8 }, { result: 14.1, points: 7 }, { result: 14.2, points: 6 },
           { result: 14.3, points: 5 }, { result: 14.4, points: 4 }, { result: 14.5, points: 3 },
           { result: 14.6, points: 2 }, { result: 14.7, points: 1 }, { result: 14.8, points: 0 }], result: 0, points: 0 },
-      // Остальные виды соревнований
+      { name: 'Метание гранаты', resultsArray: [
+          { result: 10.3, points: 60 }, { result: 14.8, points: 0 }], result: 0, points: 0 },
+          { name: 'Плавание', resultsArray: [
+          { result: 10.3, points: 60 }, { result: 14.8, points: 0 }], result: 0, points: 0 },
+          { name: 'Бег 3000м', resultsArray: [
+          { result: 10.3, points: 60 }, { result: 14.8, points: 0 }], result: 0, points: 0 },
+          { name: 'Стрельба', resultsArray: [
+          { result: 10.3, points: 60 }, { result: 14.8, points: 0 }], result: 0, points: 0 },
+          { name: 'Подтягивание', resultsArray: [
+          { result: 10.3, points: 60 }, { result: 14.8, points: 0 }], result: 0, points: 0 },
+          { name: 'Лыжные гонки 5км', resultsArray: [
+          { result: 10.3, points: 60 }, { result: 14.8, points: 0 }], result: 0, points: 0 },
     ]
   };
 },
