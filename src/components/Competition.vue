@@ -1,6 +1,6 @@
 <template>
 <div class="competition">
-  <h1>Соревнования по многоборью "Защитник Отечества"</h1>
+  <h1>Многоборье "Защитник Отечества"</h1>
   <div v-for="(event, index) in events" :key="index" class="event-form">
     <label :for="'result-' + index">{{ event.name }}</label>
     <input
