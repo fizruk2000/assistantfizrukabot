@@ -325,7 +325,6 @@ padding: 20px;
 }
 .event-form {
 margin-bottom: 15px;
-margin-left: 25%;
 }
 label {
 display: block;
@@ -335,6 +334,6 @@ input {
 margin-right: 10px;
 }
 h2 {
-text-align: center;
+text-align: left;
 }
 </style>
