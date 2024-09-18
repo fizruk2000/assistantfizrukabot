@@ -334,6 +334,6 @@ input {
 margin-right: 10px;
 }
 h2 {
-text-align: left;
+text-align: center;
 }
 </style>
